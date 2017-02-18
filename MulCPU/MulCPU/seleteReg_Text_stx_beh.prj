@@ -1,0 +1,3 @@
+verilog isim_temp "SeleteWriReg.v"
+verilog isim_temp "seleteReg_Text.v"
+verilog isim_temp "E:/XILINX/14.4/ISE_DS/ISE//verilog/src/glbl.v"

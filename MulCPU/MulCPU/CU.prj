@@ -1,0 +1,4 @@
+verilog work "DRegister.v"
+verilog work "CPUState.v"
+verilog work "CPUFunc.v"
+verilog work "CU.v"

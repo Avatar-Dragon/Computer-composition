@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="CPU_main">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2016-4-23T7:20:16</timestamp>
+    <attr value="CPU_main" name="VeriModel" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="192" y="-72" type="symbol" />
+    </graph>
+</symbol>

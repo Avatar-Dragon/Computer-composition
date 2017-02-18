@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/XILINX/project/CPU/ALU_source.v -lang verilog -prj CPU -o ALU_source.spl -module ALU_source -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ALU_source.spl E:/XILINX/project/CPU/ALU_source.sym 

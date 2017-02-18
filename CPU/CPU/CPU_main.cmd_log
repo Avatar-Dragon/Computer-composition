@@ -1,0 +1,14 @@
+vhdtdtfi -lib work E:/XILINX/project/CPU/CPU_main.v -lang verilog -prj CPU -o CPU_main.spl -module CPU_main -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CPU_main.spl E:/XILINX/project/CPU/CPU_main.sym 
+vhdtdtfi -lib work E:/XILINX/project/CPU/CPU_main.v -lang verilog -prj CPU -o CPU_main.spl -module CPU_main -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CPU_main.spl E:/XILINX/project/CPU/CPU_main.sym 
+vhdtdtfi -lib work E:/XILINX/project/CPU/CPU_main.v -lang verilog -prj CPU -o CPU_main.spl -module CPU_main -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CPU_main.spl E:/XILINX/project/CPU/CPU_main.sym 
+vhdtdtfi -lib work E:/XILINX/project/CPU/CPU_main.v -lang verilog -prj CPU -o CPU_main.spl -module CPU_main -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CPU_main.spl E:/XILINX/project/CPU/CPU_main.sym 
+vhdtdtfi -lib work E:/XILINX/project/CPU/CPU_main.v -lang verilog -prj CPU -o CPU_main.spl -module CPU_main -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CPU_main.spl E:/XILINX/project/CPU/CPU_main.sym 
+vhdtdtfi -lib work E:/XILINX/project/CPU/CPU_main.v -lang verilog -prj CPU -o CPU_main.spl -module CPU_main -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CPU_main.spl E:/XILINX/project/CPU/CPU_main.sym 
+vhdtdtfi -lib work E:/XILINX/project/CPU/CPU_main.v -lang verilog -prj CPU -o CPU_main.spl -module CPU_main -template E:/XILINX/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CPU_main.spl E:/XILINX/project/CPU/CPU_main.sym 

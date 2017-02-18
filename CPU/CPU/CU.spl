@@ -1,0 +1,18 @@
+[Inputs]
+zero
+=decode[5:0]=
+[Outputs]
+PCWre
+ALUSrcB
+ALUM2Reg
+RegWre
+INsMemRW
+DataMemRW
+ExtSel
+PCSrc
+RegOut
+=ALUOp[2:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel CU
+
